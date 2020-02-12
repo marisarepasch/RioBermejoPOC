@@ -8,6 +8,7 @@ We model the river POC flux and fit the model output delta14C and OC load to fie
 'ber_C14dat_indiv.csv' contains measured delta14C values for individual samples collected along the Rio Bermejo.
 'ber_C14dat_DI.csv' contains depth-integrated delta14C values for samples collected along the Rio Bermejo.
 'marisa_bermejo_5pool_17pars_DI.R' is an R script containing code that parameterizes a carbon cycle model to fit the field data.
+
 'SeriesPools14.R' is an R script containing code that models carbon and radiocarbon over time.
 
 ###### Variables:
