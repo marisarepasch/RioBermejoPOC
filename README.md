@@ -12,7 +12,7 @@ We model the river POC flux and fit the model output delta14C and OC load to fie
 
 ###### Variables:
 - *dist* = distance downstream along the channel (km)
--*time* = sediment transit time (yr)
+- *time* = sediment transit time (yr)
 - *C_kg* = suspended POC load (kg)
 - *C_kg_SD* = uncertainty on the suspended POC load (kg)
 - *d14C* =  measured delta14C values
